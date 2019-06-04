@@ -1,4 +1,4 @@
-package model
+package models
 
 type Book struct {
 	//backticks encodes the value of id into the key ID, here for json
